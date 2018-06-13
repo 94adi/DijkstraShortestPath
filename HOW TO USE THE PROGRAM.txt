@@ -1,0 +1,5 @@
+1. Click on the canvas to add a new point to the current polygon
+2. In order to close the polygon (connect the first point with the right) righ click on the canvas
+3. After you've drawn all the desired polygons click on the Start/Stop button and select the sarting point and ending point.
+4. Click on the "Process" button.
+5. Click anywhere on the canvas to get all the paths and shortest path drawn

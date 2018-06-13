@@ -1,0 +1,33 @@
+C:\Users\Adi\Desktop\howto_enlarge_polygon\bin\Debug\howto_enlarge_polygon.exe
+C:\Users\Adi\Desktop\howto_enlarge_polygon\bin\Debug\howto_enlarge_polygon.pdb
+C:\Users\Adi\Desktop\howto_enlarge_polygon\obj\Debug\howto_enlarge_polygon.csprojResolveAssemblyReference.cache
+C:\Users\Adi\Desktop\howto_enlarge_polygon\obj\Debug\howto_enlarge_polygon.Form1.resources
+C:\Users\Adi\Desktop\howto_enlarge_polygon\obj\Debug\howto_enlarge_polygon.Properties.Resources.resources
+C:\Users\Adi\Desktop\howto_enlarge_polygon\obj\Debug\howto_enlarge_polygon.csproj.GenerateResource.Cache
+C:\Users\Adi\Desktop\howto_enlarge_polygon\obj\Debug\howto_enlarge_polygon.exe
+C:\Users\Adi\Desktop\howto_enlarge_polygon\obj\Debug\howto_enlarge_polygon.pdb
+D:\Visual Studio Projects\howto_enlarge_polygon\obj\Debug\howto_enlarge_polygon.exe
+D:\Visual Studio Projects\howto_enlarge_polygon\obj\Debug\howto_enlarge_polygon.pdb
+D:\Visual Studio Projects\howto_enlarge_polygon\bin\Debug\howto_enlarge_polygon.exe
+D:\Visual Studio Projects\howto_enlarge_polygon\bin\Debug\howto_enlarge_polygon.pdb
+D:\Visual Studio Projects\howto_enlarge_polygon\obj\Debug\howto_enlarge_polygon.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\howto_enlarge_polygon\obj\Debug\howto_enlarge_polygon.Form1.resources
+D:\Visual Studio Projects\howto_enlarge_polygon\obj\Debug\howto_enlarge_polygon.Properties.Resources.resources
+D:\Visual Studio Projects\howto_enlarge_polygon\obj\Debug\howto_enlarge_polygon.csproj.GenerateResource.Cache
+C:\Users\Adi\Desktop\howto_enlarge_polygon\obj\Debug\howto_enlarge_polygon.Form2.resources
+C:\Users\Adi\Desktop\Cursuri\howto_enlarge_polygon\obj\Debug\howto_enlarge_polygon.exe
+C:\Users\Adi\Desktop\Cursuri\howto_enlarge_polygon\obj\Debug\howto_enlarge_polygon.pdb
+C:\Users\Adi\Desktop\Cursuri\howto_enlarge_polygon\bin\Debug\howto_enlarge_polygon.exe
+C:\Users\Adi\Desktop\Cursuri\howto_enlarge_polygon\bin\Debug\howto_enlarge_polygon.pdb
+C:\Users\Adi\Desktop\Cursuri\howto_enlarge_polygon\obj\Debug\howto_enlarge_polygon.csprojResolveAssemblyReference.cache
+C:\Users\Adi\Desktop\Cursuri\howto_enlarge_polygon\obj\Debug\howto_enlarge_polygon.Form1.resources
+C:\Users\Adi\Desktop\Cursuri\howto_enlarge_polygon\obj\Debug\howto_enlarge_polygon.Properties.Resources.resources
+C:\Users\Adi\Desktop\Cursuri\howto_enlarge_polygon\obj\Debug\howto_enlarge_polygon.csproj.GenerateResource.Cache
+D:\My Projects\Visual Studio Projects\BRfin\howto_enlarge_polygon\obj\Debug\howto_enlarge_polygon.exe
+D:\My Projects\Visual Studio Projects\BRfin\howto_enlarge_polygon\obj\Debug\howto_enlarge_polygon.pdb
+D:\My Projects\Visual Studio Projects\BRfin\howto_enlarge_polygon\bin\Debug\howto_enlarge_polygon.exe
+D:\My Projects\Visual Studio Projects\BRfin\howto_enlarge_polygon\bin\Debug\howto_enlarge_polygon.pdb
+D:\My Projects\Visual Studio Projects\BRfin\howto_enlarge_polygon\obj\Debug\howto_enlarge_polygon.csprojResolveAssemblyReference.cache
+D:\My Projects\Visual Studio Projects\BRfin\howto_enlarge_polygon\obj\Debug\howto_enlarge_polygon.Form1.resources
+D:\My Projects\Visual Studio Projects\BRfin\howto_enlarge_polygon\obj\Debug\howto_enlarge_polygon.Properties.Resources.resources
+D:\My Projects\Visual Studio Projects\BRfin\howto_enlarge_polygon\obj\Debug\howto_enlarge_polygon.csproj.GenerateResource.Cache
