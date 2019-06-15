@@ -7,8 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-// Add a reference to WindowsBase.
-
 using System.Drawing.Drawing2D;
 using System.Diagnostics;
 using System.Windows;
